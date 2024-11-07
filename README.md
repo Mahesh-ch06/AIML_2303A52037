@@ -11,6 +11,8 @@
 6.  [Lab 06](https://github.com/Mahesh-ch06/AIML_2303A52037/blob/main/AIML_A6.pdf):  Intro to python libraries - Numpy
 7.  [Lab 07](https://github.com/Mahesh-ch06/AIML_2303A52037/blob/main/AIML_A7.pdf):  Intro to python libraries - Numpy
 8.  [Lab 08](https://github.com/Mahesh-ch06/AIML_2303A52037/blob/main/AIML_A8.pdf):  Intro to python libraries - Numpy
+9.  [Lab 09](https://github.com/Mahesh-ch06/AIML_2303A52037/blob/main/AIML_A9.pdf):  Intro to python libraries - Numpy
+10. [Lab 10](https://github.com/Mahesh-ch06/AIML_2303A52037/blob/main/AIML_A10.pdf):  Intro to python libraries - Numpy
 
 
 ## Aritificial Intelligence and Machine Learning Lab Jupyter Notebook
@@ -21,5 +23,8 @@
 5.  [Lab 05](https://github.com/Mahesh-ch06/AIML_2303A52037/blob/main/Lab5.ipynb):  Intro to python libraries - Numpy
 6.  [Lab 06](https://github.com/Mahesh-ch06/AIML_2303A52037/blob/main/Lab6.ipynb):  Intro to python libraries - Numpy
 7.  [Lab 07](https://github.com/Mahesh-ch06/AIML_2303A52037/blob/main/Lab7.ipynb):  Intro to python libraries - Numpy
+8.  [Lab 08](https://github.com/Mahesh-ch06/AIML_2303A52037/blob/main/Lab8.ipynb):  Intro to python libraries - Numpy
+9.  [Lab 09](https://github.com/Mahesh-ch06/AIML_2303A52037/blob/main/Lab9.ipynb):  Intro to python libraries - Numpy
+10. [Lab 10](https://github.com/Mahesh-ch06/AIML_2303A52037/blob/main/Lab10.ipynb):  Intro to python libraries - Numpy
 
 
